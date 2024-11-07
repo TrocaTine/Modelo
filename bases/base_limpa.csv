@@ -1,0 +1,232 @@
+,faixa_etaria,genero,cidade,faixa_salarial,flag_filho,faixa_etaria_filho,dificuldade_infantil,reciclagem_tecido,objetivo_compra,dificuldade_compra,compra_roupa_usada,forma_trocou,seguranca_aplicativo,target
+0,Entre 35 e 44 anos,Feminino,Osasco,"Classe C: entre R$ 2,9 mil e R$ 7,1 mil",Sim,Entre 9 e 14 anos,Preço;,Não,Comprar mais barato,Crescimento;,Sim,Doou;Trocou;,Não,Não
+1,Entre 54 e 59 anos,Feminino,Barueri,"Classe C: entre R$ 2,9 mil e R$ 7,1 mil",Sim,Entre 15 e 17 anos,Crescimento;,Não,Comprar mais barato,Preço;,Não,Doou;,Sim,Sim
+2,Menos de 18 anos,Masculino,Sao Paulo,"Classe C: entre R$ 2,9 mil e R$ 7,1 mil",Não,Nao tem filhos,Qualidade;Crescimento;,Não,Comprar mais barato,Qualidade;Crescimento;,Sim,Doou;,Sim,Sim
+3,Menos de 18 anos,Feminino,Osasco,"Classe C: entre R$ 2,9 mil e R$ 7,1 mil",Não,Nao tem filhos,Crescimento;,Não,Comprar mais barato,Preço;,Sim,Doou;,Sim,Sim
+4,Menos de 18 anos,Masculino,Sao Paulo,Classe A: superior a R$ 22 mil,Não,Nao tem filhos,Crescimento;,Não,Chegue mais rápido,Crescimento;,Não,Doou;,Sim,Sim
+5,Menos de 18 anos,Masculino,Sao Paulo,"Classe B: entre R$7,1 mil e R$ 22 mil",Não,Nao tem filhos,Preco;Qualidade;Crescimento;,Não,Comprar mais barato,Preco;Qualidade;,Não,Doou;Trocou;Recebeu;,Não,Sim
+6,Menos de 18 anos,Prefiro não me identificar,Osasco,"Classe C: entre R$ 2,9 mil e R$ 7,1 mil",Não,Nao tem filhos,Preco;Qualidade;Crescimento;,Não,Comprar mais barato,Preco;Qualidade;Crescimento;,Sim,Doou;Trocou;Recebeu;,Não,Sim
+7,Menos de 18 anos,Feminino,Sao Paulo,"Classe C: entre R$ 2,9 mil e R$ 7,1 mil",Não,Nao tem filhos,Preço;,Não,Comprar mais barato,Preco;Qualidade;,Não,Doou;,Não,Sim
+8,Menos de 18 anos,Feminino,Osasco,"Classe D/E: até R$ 2,9 mil",Não,Nao tem filhos,Crescimento;,Não,Chegue mais rápido,Qualidade;,Sim,Recebeu;,Sim,Sim
+9,Menos de 18 anos,Masculino,Sao Paulo,"Classe B: entre R$7,1 mil e R$ 22 mil",Não,Nao tem filhos,Preco;Crescimento;,Não,Comprar mais barato,Preco;Qualidade;,Sim,Doou;,Sim,Sim
+10,Menos de 18 anos,Masculino,Sao Paulo,"Classe B: entre R$7,1 mil e R$ 22 mil",Não,Nao tem filhos,Preco;Qualidade;Crescimento;,Não,Comprar mais barato,Preco;Qualidade;,Sim,Doou;,Não,Não
+11,Menos de 18 anos,Masculino,Sao Paulo,"Classe C: entre R$ 2,9 mil e R$ 7,1 mil",Não,Nao tem filhos,Qualidade;,Não,Chegue mais rápido,Qualidade;,Não,Doou;,Sim,Não
+12,Menos de 18 anos,Masculino,Sao Paulo,"Classe B: entre R$7,1 mil e R$ 22 mil",Não,Nao tem filhos,Preco;Crescimento;,Não,Comprar mais barato,Preco;Crescimento;,Não,Trocou;,Não,Sim
+13,Menos de 18 anos,Masculino,Osasco,"Classe C: entre R$ 2,9 mil e R$ 7,1 mil",Não,Nao tem filhos,Preco;Crescimento;,Não,Comprar mais barato,Preço;,Não,Doou;Recebeu;,Sim,Não
+14,Menos de 18 anos,Feminino,Sao Paulo,"Classe B: entre R$7,1 mil e R$ 22 mil",Não,Nao tem filhos,Crescimento;,Não,Comprar mais barato,Preço;,Não,Doou;Recebeu;,Sim,Não
+15,Menos de 18 anos,Masculino,Osasco,"Classe D/E: até R$ 2,9 mil",Não,Nao tem filhos,Qualidade;,Sim,Chegue mais rápido,Crescimento;,Não,Recebeu;,Não,Não
+16,Menos de 18 anos,Feminino,Sao Paulo,"Classe C: entre R$ 2,9 mil e R$ 7,1 mil",Não,Nao tem filhos,Preco;Crescimento;,Não,Comprar mais barato,Preço;,Sim,Doou;Trocou;Recebeu;,Sim,Sim
+17,Entre 35 e 44 anos,Feminino,Sao Paulo,"Classe C: entre R$ 2,9 mil e R$ 7,1 mil",Sim,Entre 9 e 14 anos,Preço;,Não,Comprar mais barato,Preço;,Sim,Doou;Trocou;Recebeu;,Sim,Sim
+18,Menos de 18 anos,Masculino,Sao Paulo,"Classe C: entre R$ 2,9 mil e R$ 7,1 mil",Não,Nao tem filhos,Preco;Qualidade;Crescimento;,Não,Comprar mais barato,Preco;Qualidade;,Não,Doou;Recebeu;,Sim,Não
+19,Menos de 18 anos,Masculino,Sao Paulo,"Classe C: entre R$ 2,9 mil e R$ 7,1 mil",Não,Nao tem filhos,Preco;Crescimento;,Não,Comprar mais barato,Preço;,Sim,Doou;,Sim,Não
+20,Menos de 18 anos,Masculino,Sao Paulo,"Classe B: entre R$7,1 mil e R$ 22 mil",Não,Nao tem filhos,Preco;Crescimento;,Não,Comprar mais barato,Crescimento;,Não,Doou;,Não,Sim
+21,Entre 25 e 34 anos,Feminino,Sao Paulo,"Classe D/E: até R$ 2,9 mil",Sim,Entre 15 e 17 anos,Crescimento;,Não,Comprar mais barato,Crescimento;,Sim,Trocou;,Sim,Sim
+22,Menos de 18 anos,Masculino,Sao Paulo,"Classe C: entre R$ 2,9 mil e R$ 7,1 mil",Não,Nao tem filhos,Preco;Qualidade;Crescimento;,Sim,Comprar mais barato,Preco;Qualidade;Crescimento;,Não,Doou;Recebeu;,Sim,Não
+23,60+,Feminino,Barueri,"Classe B: entre R$7,1 mil e R$ 22 mil",Não,Nao tem filhos,Preco;Qualidade;Crescimento;,Não,Comprar mais barato,Preço;,Não,Doou;Recebeu;,Sim,Sim
+24,Entre 35 e 44 anos,Feminino,Sao Paulo,"Classe C: entre R$ 2,9 mil e R$ 7,1 mil",Sim,Menos de 8 anos,Preco;Qualidade;,Não,Comprar mais barato,Preco;Qualidade;,Sim,Doou;Recebeu;,Sim,Sim
+25,Entre 45 e 54 anos,Feminino,Sao Paulo,Classe A: superior a R$ 22 mil,Sim,Entre 9 e 14 anos,Preco;Qualidade;Crescimento;,Não,Chegue mais rápido,Preco;Qualidade;,Sim,Doou;Trocou;Recebeu;,Sim,Sim
+26,Entre 25 e 34 anos,Feminino,Sao Paulo,"Classe C: entre R$ 2,9 mil e R$ 7,1 mil",Sim,Entre 9 e 14 anos,Preço;,Não,Comprar mais barato,Preço;,Sim,Doou;,Sim,Sim
+27,Menos de 18 anos,Masculino,Barueri,"Classe D/E: até R$ 2,9 mil",Não,Nao tem filhos,Preço;,Sim,Comprar mais barato,Preço;,Sim,Doou;Trocou;Recebeu;,Sim,Sim
+28,Entre 35 e 44 anos,Feminino,Sao Paulo,"Classe C: entre R$ 2,9 mil e R$ 7,1 mil",Não,Nao tem filhos,Preço;,Não,Comprar mais barato,Qualidade;,Não,Doou;,Sim,Sim
+29,Menos de 18 anos,Masculino,Sao Paulo,"Classe C: entre R$ 2,9 mil e R$ 7,1 mil",Não,Nao tem filhos,Preco;Crescimento;,Não,Comprar mais barato,Preco;Crescimento;,Não,Doou;,Sim,Não
+30,Entre 35 e 44 anos,Masculino,Sao Paulo,"Classe B: entre R$7,1 mil e R$ 22 mil",Sim,Entre 9 e 14 anos,Qualidade;,Sim,Chegue mais rápido,Qualidade;,Não,Doou;,Sim,Não
+31,Menos de 18 anos,Masculino,Sao Paulo,"Classe D/E: até R$ 2,9 mil",Não,Nao tem filhos,Preço;,Não,Comprar mais barato,Preço;,Não,Doou;Trocou;Recebeu;,Não,Não
+32,Menos de 18 anos,Prefiro não me identificar,Sao Paulo,"Classe C: entre R$ 2,9 mil e R$ 7,1 mil",Não,Nao tem filhos,Preco;Qualidade;Crescimento;,Não,Comprar mais barato,Preco;Qualidade;Crescimento;,Sim,Doou;Trocou;,Não,Não
+33,Menos de 18 anos,Masculino,Osasco,Classe A: superior a R$ 22 mil,Não,Nao tem filhos,Crescimento;,Não,Chegue mais rápido,Crescimento;,Não,Doou;Recebeu;,Não,Sim
+34,Menos de 18 anos,Masculino,Sao Paulo,"Classe D/E: até R$ 2,9 mil",Não,Nao tem filhos,Preço;,Sim,Comprar mais barato,Preco;Qualidade;Crescimento;,Sim,Doou;Trocou;Recebeu;,Sim,Sim
+35,Menos de 18 anos,Masculino,Sao Paulo,"Classe B: entre R$7,1 mil e R$ 22 mil",Não,Nao tem filhos,Preco;Qualidade;Crescimento;,Sim,Chegue mais rápido,Preco;Qualidade;Crescimento;,Sim,Doou;Recebeu;,Não,Não
+36,Menos de 18 anos,Prefiro não me identificar,Osasco,"Classe C: entre R$ 2,9 mil e R$ 7,1 mil",Não,Nao tem filhos,Preco;Crescimento;,Sim,Chegue mais rápido,Preco;Crescimento;,Sim,Doou;Trocou;Recebeu;,Não,Sim
+37,Menos de 18 anos,Masculino,Sao Paulo,"Classe D/E: até R$ 2,9 mil",Não,Nao tem filhos,Preco;Qualidade;Crescimento;,Não,Comprar mais barato,Preço;,Sim,Recebeu;,Não,Não
+38,Menos de 18 anos,Feminino,Sao Paulo,"Classe D/E: até R$ 2,9 mil",Não,Nao tem filhos,Crescimento;,Não,Comprar mais barato,Preço;,Sim,Doou;Recebeu;,Não,Sim
+39,Menos de 18 anos,Masculino,Sao Paulo,"Classe B: entre R$7,1 mil e R$ 22 mil",Não,Nao tem filhos,Preco;Crescimento;,Não,Comprar mais barato,Preco;Qualidade;,Sim,Doou;Trocou;Recebeu;,Sim,Sim
+40,Menos de 18 anos,Masculino,Sao Paulo,"Classe C: entre R$ 2,9 mil e R$ 7,1 mil",Não,Nao tem filhos,Preco;Qualidade;Crescimento;,Não,Chegue mais rápido,Preco;Qualidade;,Sim,Doou;Recebeu;,Sim,Sim
+41,Entre 54 e 59 anos,Masculino,Santo André,"Classe B: entre R$7,1 mil e R$ 22 mil",Sim,Entre 25 e 34 anos,Preço;,Não,Chegue mais rápido,Preço;,Não,Trocou;,Não,Sim
+42,Menos de 18 anos,Feminino,Osasco,"Classe B: entre R$7,1 mil e R$ 22 mil",Não,Nao tem filhos,Preço;,Não,Comprar mais barato,Preco;Qualidade;,Sim,Doou;,Sim,Sim
+43,Entre 45 e 54 anos,Masculino,Sao Paulo,"Classe B: entre R$7,1 mil e R$ 22 mil",Sim,Entre 15 e 17 anos,Preço;,Não,Comprar mais barato,Preço;,Não,Doou;,Sim,Não
+44,Menos de 18 anos,Feminino,Osasco,"Classe D/E: até R$ 2,9 mil",Não,Nao tem filhos,Crescimento;,Não,Comprar mais barato,Preço;,Sim,Doou;,Sim,Sim
+45,Menos de 18 anos,Masculino,Osasco,"Classe B: entre R$7,1 mil e R$ 22 mil",Não,Nao tem filhos,Crescimento;,Não,Chegue mais rápido,Crescimento;,Não,Doou;,Sim,Não
+46,Entre 35 e 44 anos,Feminino,Sao Paulo,"Classe D/E: até R$ 2,9 mil",Sim,Menos de 8 anos,Preco;Crescimento;,Não,Comprar mais barato,Preço;,Sim,Doou;Trocou;Recebeu;,Sim,Sim
+47,Menos de 18 anos,Feminino,Sao Paulo,"Classe C: entre R$ 2,9 mil e R$ 7,1 mil",Não,Nao tem filhos,Crescimento;,Não,Chegue mais rápido,Crescimento;,Sim,Doou;Recebeu;,Não,Sim
+48,Menos de 18 anos,Masculino,Sao Paulo,"Classe C: entre R$ 2,9 mil e R$ 7,1 mil",Não,Nao tem filhos,Preço;,Sim,Chegue mais rápido,Preço;,Sim,Doou;,Sim,Sim
+49,Menos de 18 anos,Feminino,Sao Paulo,"Classe C: entre R$ 2,9 mil e R$ 7,1 mil",Não,Nao tem filhos,Preco;Qualidade;,Não,Chegue mais rápido,Preco;Qualidade;,Sim,Doou;,Sim,Sim
+50,Menos de 18 anos,Feminino,Sao Paulo,Classe A: superior a R$ 22 mil,Não,Nao tem filhos,Preco;Crescimento;,Não,Comprar mais barato,Preco;Qualidade;,Sim,Doou;Trocou;,Não,Sim
+51,Menos de 18 anos,Feminino,Sao Paulo,"Classe D/E: até R$ 2,9 mil",Não,Nao tem filhos,Crescimento;,Não,Comprar mais barato,Preço;,Sim,Doou;,Sim,Sim
+52,Entre 18 e 24 anos,Prefiro não me identificar,Sao Paulo,Classe A: superior a R$ 22 mil,Sim,Entre 18 e 24 anos,Crescimento;,Não,Chegue mais rápido,Crescimento;,Sim,Doou;,Não,Não
+53,Menos de 18 anos,Masculino,Osasco,"Classe C: entre R$ 2,9 mil e R$ 7,1 mil",Não,Nao tem filhos,Crescimento;,Não,Comprar mais barato,Preco;Qualidade;Crescimento;,Sim,Trocou;,Não,Não
+54,Menos de 18 anos,Masculino,Sao Paulo,"Classe C: entre R$ 2,9 mil e R$ 7,1 mil",Não,Nao tem filhos,Preco;Crescimento;,Não,Comprar mais barato,Preco;Qualidade;,Sim,Doou;,Sim,Não
+55,Menos de 18 anos,Feminino,Osasco,"Classe C: entre R$ 2,9 mil e R$ 7,1 mil",Não,Nao tem filhos,Preco;Qualidade;,Sim,Comprar mais barato,Preco;Qualidade;Crescimento;,Sim,Doou;,Sim,Sim
+56,Menos de 18 anos,Feminino,Sao Paulo,"Classe C: entre R$ 2,9 mil e R$ 7,1 mil",Não,Nao tem filhos,Crescimento;,Não,Chegue mais rápido,Preço;,Sim,Doou;Recebeu;,Sim,Sim
+57,60+,Feminino,Sao Paulo,"Classe C: entre R$ 2,9 mil e R$ 7,1 mil",Sim,Entre 35 e 44 anos,Preço;,Não,Comprar mais barato,Preço;,Sim,Trocou;,Não,Sim
+58,Entre 54 e 59 anos,Masculino,Sao Paulo,"Classe D/E: até R$ 2,9 mil",Sim,Menos de 8 anos,Preço;,Não,Comprar mais barato,Preço;,Sim,Trocou;,Sim,Sim
+59,Entre 18 e 24 anos,Feminino,Sao Paulo,"Classe D/E: até R$ 2,9 mil",Não,Nao tem filhos,Qualidade;,Não,Chegue mais rápido,Qualidade;,Não,Doou;,Sim,Não
+60,Entre 35 e 44 anos,Feminino,Sao Paulo,"Classe D/E: até R$ 2,9 mil",Sim,Entre 15 e 17 anos,Preco;Crescimento;,Não,Comprar mais barato,Preco;Qualidade;Crescimento;,Sim,Doou;,Sim,Sim
+61,Menos de 18 anos,Feminino,Sao Paulo,"Classe B: entre R$7,1 mil e R$ 22 mil",Não,Nao tem filhos,Preco;Qualidade;,Não,Comprar mais barato,Preco;Qualidade;,Não,Doou;,Sim,Sim
+62,Menos de 18 anos,Masculino,Sao Paulo,"Classe C: entre R$ 2,9 mil e R$ 7,1 mil",Não,Nao tem filhos,Preço;,Não,Comprar mais barato,Preço;,Não,Doou;Recebeu;,Sim,Sim
+63,Menos de 18 anos,Masculino,Itaquaquecetuba,"Classe C: entre R$ 2,9 mil e R$ 7,1 mil",Não,Nao tem filhos,Preco;Crescimento;,Não,Comprar mais barato,Preço;,Não,Doou;,Sim,Sim
+64,60+,Feminino,Campinas,"Classe B: entre R$7,1 mil e R$ 22 mil",Sim,Entre 35 e 44 anos,Preço;,Não,Comprar mais barato,Qualidade;,Não,Doou;,Sim,Sim
+65,Menos de 18 anos,Masculino,Osasco,"Classe C: entre R$ 2,9 mil e R$ 7,1 mil",Não,Nao tem filhos,Preco;Qualidade;,Sim,Comprar mais barato,Preco;Qualidade;,Sim,Doou;,Não,Não
+66,Menos de 18 anos,Masculino,Sao Paulo,"Classe B: entre R$7,1 mil e R$ 22 mil",Não,Nao tem filhos,Preco;Crescimento;,Não,Comprar mais barato,Preco;Qualidade;Crescimento;,Sim,Doou;,Sim,Sim
+67,Menos de 18 anos,Masculino,Sao Paulo,"Classe C: entre R$ 2,9 mil e R$ 7,1 mil",Não,Nao tem filhos,Preco;Crescimento;,Sim,Comprar mais barato,Preco;Crescimento;,Sim,Doou;Trocou;,Sim,Sim
+68,Menos de 18 anos,Feminino,Sao Paulo,"Classe B: entre R$7,1 mil e R$ 22 mil",Não,Nao tem filhos,Preço;,Não,Comprar mais barato,Preço;,Não,Doou;,Sim,Sim
+69,Entre 45 e 54 anos,Masculino,Sao Paulo,"Classe C: entre R$ 2,9 mil e R$ 7,1 mil",Sim,Entre 15 e 17 anos,Preço;,Não,Comprar mais barato,Preço;,Sim,Doou;,Não,Sim
+70,Menos de 18 anos,Masculino,Sao Paulo,"Classe C: entre R$ 2,9 mil e R$ 7,1 mil",Não,Nao tem filhos,Qualidade;Crescimento;,Não,Comprar mais barato,Preco;Qualidade;,Não,Doou;Recebeu;,Sim,Não
+71,Entre 54 e 59 anos,Feminino,Sao Paulo,"Classe D/E: até R$ 2,9 mil",Sim,Entre 25 e 34 anos,Preço;,Não,Comprar mais barato,Preço;,Sim,Trocou;,Sim,Sim
+72,60+,Feminino,Sao Paulo,"Classe B: entre R$7,1 mil e R$ 22 mil",Sim,Entre 25 e 34 anos,Preço;,Não,Chegue mais rápido,Preço;,Não,Doou;,Sim,Sim
+73,Menos de 18 anos,Masculino,Sao Paulo,"Classe D/E: até R$ 2,9 mil",Não,Nao tem filhos,Preco;Qualidade;,Não,Comprar mais barato,Preco;Crescimento;,Sim,Doou;Recebeu;,Sim,Sim
+74,Menos de 18 anos,Masculino,Sao Paulo,Classe A: superior a R$ 22 mil,Não,Nao tem filhos,Qualidade;,Não,Comprar mais barato,Qualidade;,Não,Trocou;,Sim,Sim
+75,Menos de 18 anos,Feminino,Osasco,"Classe B: entre R$7,1 mil e R$ 22 mil",Não,Nao tem filhos,Qualidade;,Não,Chegue mais rápido,Qualidade;,Não,Doou;Recebeu;,Sim,Não
+76,Menos de 18 anos,Feminino,Osasco,"Classe B: entre R$7,1 mil e R$ 22 mil",Não,Nao tem filhos,Preco;Crescimento;,Não,Comprar mais barato,Preco;Qualidade;Crescimento;,Não,Doou;Recebeu;,Não,Sim
+77,Menos de 18 anos,Feminino,Osasco,"Classe C: entre R$ 2,9 mil e R$ 7,1 mil",Não,Nao tem filhos,Preço;,Não,Comprar mais barato,Preco;Qualidade;,Sim,Doou;Recebeu;,Sim,Sim
+78,Menos de 18 anos,Feminino,Osasco,"Classe C: entre R$ 2,9 mil e R$ 7,1 mil",Não,Nao tem filhos,Qualidade;,Não,Comprar mais barato,Crescimento;,Sim,Doou;,Sim,Não
+79,Menos de 18 anos,Feminino,Sao Paulo,"Classe C: entre R$ 2,9 mil e R$ 7,1 mil",Não,Nao tem filhos,Preco;Qualidade;,Não,Comprar mais barato,Preco;Qualidade;,Sim,Doou;Recebeu;,Sim,Sim
+80,Menos de 18 anos,Feminino,Sao Paulo,"Classe B: entre R$7,1 mil e R$ 22 mil",Não,Nao tem filhos,Preco;Qualidade;Crescimento;,Não,Comprar mais barato,Preco;Qualidade;,Não,Doou;,Sim,Sim
+81,Entre 54 e 59 anos,Masculino,Guarulhos,"Classe C: entre R$ 2,9 mil e R$ 7,1 mil",Sim,Entre 18 e 24 anos,Preço;,Não,Comprar mais barato,Qualidade;,Sim,Recebeu;,Sim,Sim
+82,Menos de 18 anos,Masculino,Santana de Parnaíba,"Classe B: entre R$7,1 mil e R$ 22 mil",Não,Nao tem filhos,Preco;Qualidade;Crescimento;,Não,Comprar mais barato,Preco;Qualidade;Crescimento;,Não,Doou;,Sim,Não
+83,Entre 35 e 44 anos,Feminino,Sao Paulo,"Classe B: entre R$7,1 mil e R$ 22 mil",Sim,Entre 9 e 14 anos,Crescimento;,Não,Comprar mais barato,Preço;,Não,Doou;,Sim,Sim
+84,Menos de 18 anos,Masculino,Osasco,"Classe D/E: até R$ 2,9 mil",Não,Nao tem filhos,Qualidade;Crescimento;,Não,Chegue mais rápido,Qualidade;,Não,Doou;Trocou;Recebeu;,Sim,Sim
+85,60+,Masculino,Sao Paulo,Classe A: superior a R$ 22 mil,Sim,Entre 35 e 44 anos,Qualidade;,Não,Comprar mais barato,Qualidade;,Sim,Doou;Recebeu;,Sim,Sim
+86,Menos de 18 anos,Feminino,Osasco,"Classe B: entre R$7,1 mil e R$ 22 mil",Não,Nao tem filhos,Crescimento;,Não,Chegue mais rápido,Preco;Qualidade;,Sim,Doou;Recebeu;,Sim,Sim
+87,Menos de 18 anos,Feminino,Osasco,"Classe C: entre R$ 2,9 mil e R$ 7,1 mil",Não,Nao tem filhos,Preco;Qualidade;,Não,Comprar mais barato,Preco;Qualidade;Crescimento;,Sim,Doou;Trocou;,Não,Sim
+88,Menos de 18 anos,Feminino,Sao Paulo,"Classe B: entre R$7,1 mil e R$ 22 mil",Não,Nao tem filhos,Qualidade;Crescimento;,Não,Comprar mais barato,Preco;Qualidade;Crescimento;,Sim,Doou;,Sim,Sim
+89,Menos de 18 anos,Masculino,Sao Paulo,"Classe C: entre R$ 2,9 mil e R$ 7,1 mil",Não,Nao tem filhos,Preco;Qualidade;,Sim,Chegue mais rápido,Preco;Qualidade;,Sim,Doou;,Sim,Sim
+90,Entre 54 e 59 anos,Masculino,Sao Paulo,"Classe B: entre R$7,1 mil e R$ 22 mil",Sim,Entre 25 e 34 anos,Crescimento;,Não,Comprar mais barato,Preço;,Sim,Doou;,Sim,Não
+91,Entre 35 e 44 anos,Feminino,Sao Paulo,"Classe B: entre R$7,1 mil e R$ 22 mil",Sim,Menos de 8 anos,Preco;Qualidade;,Não,Comprar mais barato,Preco;Qualidade;,Sim,Doou;Recebeu;,Não,Sim
+92,Entre 25 e 34 anos,Feminino,Sao Paulo,"Classe B: entre R$7,1 mil e R$ 22 mil",Não,Nao tem filhos,Preço;,Não,Chegue mais rápido,Qualidade;,Sim,Doou;Trocou;Recebeu;,Sim,Sim
+93,Entre 18 e 24 anos,Feminino,Sao Paulo,"Classe C: entre R$ 2,9 mil e R$ 7,1 mil",Não,Nao tem filhos,Preco;Qualidade;Crescimento;,Não,Comprar mais barato,Preco;Qualidade;,Sim,Doou;Recebeu;,Sim,Sim
+94,Entre 25 e 34 anos,Masculino,Sao Paulo,"Classe B: entre R$7,1 mil e R$ 22 mil",Sim,Menos de 8 anos,Crescimento;,Não,Comprar mais barato,Preco;Qualidade;,Sim,Doou;Trocou;,Sim,Sim
+95,Entre 54 e 59 anos,Feminino,Sao Paulo,"Classe B: entre R$7,1 mil e R$ 22 mil",Sim,Entre 25 e 34 anos,Crescimento;,Não,Comprar mais barato,Preço;,Sim,Doou;,Sim,Não
+96,Entre 25 e 34 anos,Feminino,Sao Paulo,"Classe B: entre R$7,1 mil e R$ 22 mil",Não,Nao tem filhos,Preco;Crescimento;,Não,Chegue mais rápido,Preço;,Sim,Doou;,Sim,Sim
+97,Entre 25 e 34 anos,Feminino,Sao Paulo,"Classe C: entre R$ 2,9 mil e R$ 7,1 mil",Não,Nao tem filhos,Preco;Qualidade;,Não,Chegue mais rápido,Qualidade;,Sim,Doou;Recebeu;,Sim,Sim
+98,Entre 25 e 34 anos,Feminino,Sao Paulo,"Classe C: entre R$ 2,9 mil e R$ 7,1 mil",Não,Nao tem filhos,Preco;Qualidade;,Não,Chegue mais rápido,Preco;Qualidade;,Sim,Doou;,Sim,Sim
+99,Entre 35 e 44 anos,Feminino,Sao Paulo,"Classe B: entre R$7,1 mil e R$ 22 mil",Sim,Menos de 8 anos,Preco;Crescimento;,Não,Comprar mais barato,Preco;Crescimento;,Sim,Doou;Trocou;Recebeu;,Sim,Sim
+100,Entre 35 e 44 anos,Masculino,Sao Paulo,Classe A: superior a R$ 22 mil,Sim,Menos de 8 anos,Crescimento;,Não,Comprar mais barato,Crescimento;,Não,Doou;Recebeu;,Sim,Sim
+101,Menos de 18 anos,Masculino,Sao Paulo,"Classe C: entre R$ 2,9 mil e R$ 7,1 mil",Não,Nao tem filhos,Crescimento;,Não,Comprar mais barato,Preço;,Sim,Doou;Trocou;,Sim,Sim
+102,Menos de 18 anos,Feminino,Sao Paulo,"Classe C: entre R$ 2,9 mil e R$ 7,1 mil",Não,Nao tem filhos,Preço;,Sim,Comprar mais barato,Preco;Qualidade;,Sim,Doou;Trocou;Recebeu;,Sim,Sim
+103,Entre 35 e 44 anos,Masculino,Sao Paulo,"Classe B: entre R$7,1 mil e R$ 22 mil",Não,Nao tem filhos,Preco;Qualidade;Crescimento;,Não,Comprar mais barato,Preco;Qualidade;,Não,Doou;,Sim,Não
+104,Entre 45 e 54 anos,Feminino,Embu Guaçu ,"Classe C: entre R$ 2,9 mil e R$ 7,1 mil",Sim,Entre 9 e 14 anos,Preco;Qualidade;Crescimento;,Não,Comprar mais barato,Preco;Qualidade;,Sim,Doou;Trocou;Recebeu;,Sim,Sim
+105,Entre 45 e 54 anos,Feminino,Guarulhos,"Classe B: entre R$7,1 mil e R$ 22 mil",Sim,Entre 18 e 24 anos,Preço;,Não,Chegue mais rápido,Qualidade;,Sim,Doou;,Sim,Não
+106,Entre 45 e 54 anos,Feminino,Sao Paulo,"Classe C: entre R$ 2,9 mil e R$ 7,1 mil",Sim,Entre 25 e 34 anos,Preço;,Não,Comprar mais barato,Preço;,Sim,Doou;,Não,Sim
+107,Entre 35 e 44 anos,Feminino,Guarulhos,"Classe D/E: até R$ 2,9 mil",Sim,Menos de 8 anos,Preco;Qualidade;Crescimento;,Não,Comprar mais barato,Preco;Qualidade;Crescimento;,Sim,Doou;Recebeu;,Sim,Sim
+108,Menos de 18 anos,Feminino,Carapicuíba,Classe A: superior a R$ 22 mil,Não,Nao tem filhos,Preco;Qualidade;Crescimento;,Não,Comprar mais barato,Preco;Qualidade;,Sim,Doou;,Sim,Sim
+109,Entre 45 e 54 anos,Feminino,Sao Paulo,"Classe B: entre R$7,1 mil e R$ 22 mil",Sim,Entre 15 e 17 anos,Preco;Qualidade;Crescimento;,Não,Comprar mais barato,Preco;Qualidade;,Sim,Doou;Trocou;Recebeu;,Sim,Sim
+110,Entre 45 e 54 anos,Feminino,Osasco,Classe A: superior a R$ 22 mil,Não,Nao tem filhos,Crescimento;,Sim,Chegue mais rápido,Crescimento;,Não,Doou;,Sim,Não
+111,Entre 25 e 34 anos,Feminino,Guarulhos,"Classe D/E: até R$ 2,9 mil",Não,Nao tem filhos,Preco;Crescimento;,Não,Chegue mais rápido,Preco;Qualidade;,Sim,Doou;Trocou;Recebeu;,Sim,Sim
+112,Entre 18 e 24 anos,Masculino,Sao Paulo,"Classe C: entre R$ 2,9 mil e R$ 7,1 mil",Não,Nao tem filhos,Preco;Crescimento;,Não,Comprar mais barato,Preço;,Sim,Doou;,Sim,Sim
+113,Entre 35 e 44 anos,Feminino,Sao Paulo,"Classe C: entre R$ 2,9 mil e R$ 7,1 mil",Sim,Entre 15 e 17 anos,Preço;,Não,Comprar mais barato,Preço;,Não,Doou;,Sim,Sim
+114,Entre 35 e 44 anos,Feminino,Osasco,"Classe B: entre R$7,1 mil e R$ 22 mil",Sim,Entre 9 e 14 anos,Preco;Qualidade;Crescimento;,Não,Chegue mais rápido,Preço;,Sim,Doou;,Sim,Sim
+115,Entre 45 e 54 anos,Feminino,Osasco,"Classe B: entre R$7,1 mil e R$ 22 mil",Sim,Entre 15 e 17 anos,Preço;,Não,Comprar mais barato,Preço;,Sim,Doou;Trocou;Recebeu;,Sim,Sim
+116,Entre 54 e 59 anos,Masculino,Sao Paulo,"Classe C: entre R$ 2,9 mil e R$ 7,1 mil",Sim,Menos de 8 anos,Preco;Crescimento;,Não,Chegue mais rápido,Qualidade;,Não,Doou;Recebeu;,Sim,Sim
+117,Entre 45 e 54 anos,Feminino,Osasco,"Classe D/E: até R$ 2,9 mil",Sim,Entre 18 e 24 anos,Preço;,Não,Comprar mais barato,Preço;,Sim,Doou;,Não,Sim
+118,Entre 35 e 44 anos,Feminino,Sao Paulo,"Classe C: entre R$ 2,9 mil e R$ 7,1 mil",Sim,Entre 15 e 17 anos,Preço;,Não,Comprar mais barato,Preço;,Não,Doou;,Sim,Não
+119,Entre 35 e 44 anos,Feminino,Sao Paulo,"Classe B: entre R$7,1 mil e R$ 22 mil",Sim,Entre 15 e 17 anos,Preco;Qualidade;,Não,Comprar mais barato,Preco;Qualidade;,Sim,Doou;,Sim,Sim
+120,Entre 35 e 44 anos,Feminino,Sao Paulo,"Classe B: entre R$7,1 mil e R$ 22 mil",Sim,Entre 15 e 17 anos,Preco;Qualidade;,Não,Chegue mais rápido,Preco;Qualidade;,Sim,Doou;Recebeu;,Sim,Sim
+121,Entre 35 e 44 anos,Feminino,Osasco,"Classe B: entre R$7,1 mil e R$ 22 mil",Sim,Entre 15 e 17 anos,Preco;Qualidade;Crescimento;,Não,Comprar mais barato,Preco;Qualidade;,Sim,Doou;Recebeu;,Sim,Sim
+122,Entre 45 e 54 anos,Feminino,Osasco,"Classe B: entre R$7,1 mil e R$ 22 mil",Sim,Entre 15 e 17 anos,Preço;,Não,Comprar mais barato,Preço;,Sim,Doou;Trocou;Recebeu;,Sim,Sim
+123,Entre 54 e 59 anos,Feminino,Sao Paulo,"Classe B: entre R$7,1 mil e R$ 22 mil",Sim,Entre 15 e 17 anos,Preco;Qualidade;Crescimento;,Não,Comprar mais barato,Preco;Qualidade;,Sim,Doou;,Não,Sim
+124,Entre 35 e 44 anos,Masculino,Osasco,"Classe B: entre R$7,1 mil e R$ 22 mil",Sim,Entre 9 e 14 anos,Preco;Qualidade;Crescimento;,Não,Chegue mais rápido,Preco;Qualidade;,Não,Doou;,Sim,Não
+125,Entre 45 e 54 anos,Feminino,Osasco,"Classe B: entre R$7,1 mil e R$ 22 mil",Sim,Menos de 8 anos,Preco;Qualidade;,Não,Chegue mais rápido,Preco;Qualidade;,Não,Doou;,Sim,Sim
+126,Entre 35 e 44 anos,Feminino,Sao Paulo,"Classe C: entre R$ 2,9 mil e R$ 7,1 mil",Sim,Entre 15 e 17 anos,Preço;,Não,Chegue mais rápido,Preço;,Sim,Doou;Trocou;Recebeu;,Sim,Sim
+127,Entre 45 e 54 anos,Feminino,Sao Paulo,"Classe B: entre R$7,1 mil e R$ 22 mil",Sim,Entre 15 e 17 anos,Crescimento;,Não,Chegue mais rápido,Qualidade;,Não,Doou;,Sim,Sim
+128,Entre 54 e 59 anos,Feminino,Sao Paulo,"Classe C: entre R$ 2,9 mil e R$ 7,1 mil",Sim,Menos de 8 anos,Qualidade;,Não,Comprar mais barato,Preço;,Sim,Doou;,Sim,Sim
+129,Entre 25 e 34 anos,Feminino,Sao Paulo,"Classe C: entre R$ 2,9 mil e R$ 7,1 mil",Sim,Menos de 8 anos,Preco;Qualidade;Crescimento;,Não,Chegue mais rápido,Preço;,Sim,Doou;Trocou;Recebeu;,Sim,Sim
+130,Entre 35 e 44 anos,Feminino,Sao Paulo,"Classe C: entre R$ 2,9 mil e R$ 7,1 mil",Sim,Entre 9 e 14 anos,Preço;,Não,Comprar mais barato,Preço;,Sim,Doou;Trocou;,Sim,Sim
+131,Entre 35 e 44 anos,Feminino,Sao Paulo,"Classe C: entre R$ 2,9 mil e R$ 7,1 mil",Sim,Entre 15 e 17 anos,Preco;Qualidade;Crescimento;,Sim,Comprar mais barato,Preco;Qualidade;Crescimento;,Não,Doou;Trocou;,Sim,Sim
+132,Entre 45 e 54 anos,Feminino,Sao Paulo,"Classe C: entre R$ 2,9 mil e R$ 7,1 mil",Sim,Entre 15 e 17 anos,Qualidade;,Não,Chegue mais rápido,Qualidade;,Sim,Doou;,Sim,Sim
+133,Entre 45 e 54 anos,Feminino,Sao Paulo,"Classe C: entre R$ 2,9 mil e R$ 7,1 mil",Sim,Entre 25 e 34 anos,Preço;,Não,Comprar mais barato,Preço;,Sim,Doou;,Sim,Sim
+134,Entre 35 e 44 anos,Feminino,Osasco,"Classe C: entre R$ 2,9 mil e R$ 7,1 mil",Sim,Entre 15 e 17 anos,Crescimento;,Não,Comprar mais barato,Crescimento;,Não,Doou;,Sim,Sim
+135,Entre 45 e 54 anos,Feminino,Sao Paulo,"Classe B: entre R$7,1 mil e R$ 22 mil",Sim,Entre 15 e 17 anos,Preço;,Não,Comprar mais barato,Preço;,Sim,Doou;Recebeu;,Sim,Não
+136,Entre 35 e 44 anos,Feminino,Sao Paulo,"Classe C: entre R$ 2,9 mil e R$ 7,1 mil",Sim,Entre 15 e 17 anos,Qualidade;,Não,Comprar mais barato,Preço;,Sim,Doou;,Sim,Não
+137,Entre 35 e 44 anos,Feminino,Sao Paulo,"Classe C: entre R$ 2,9 mil e R$ 7,1 mil",Sim,Entre 9 e 14 anos,Preço;,Não,Comprar mais barato,Preço;,Sim,Doou;Recebeu;,Sim,Sim
+138,Entre 54 e 59 anos,Feminino,Sao Paulo,Classe A: superior a R$ 22 mil,Sim,Entre 15 e 17 anos,Preço;,Sim,Comprar mais barato,Preço;,Sim,Trocou;,Sim,Sim
+139,Entre 45 e 54 anos,Feminino,Sao Paulo,"Classe B: entre R$7,1 mil e R$ 22 mil",Sim,Entre 9 e 14 anos,Crescimento;,Não,Comprar mais barato,Crescimento;,Sim,Doou;Trocou;Recebeu;,Não,Sim
+140,Entre 54 e 59 anos,Feminino,Sao Paulo,"Classe B: entre R$7,1 mil e R$ 22 mil",Sim,Entre 15 e 17 anos,Preço;,Não,Comprar mais barato,Qualidade;,Não,Doou;,Sim,Não
+141,Entre 35 e 44 anos,Feminino,Sao Paulo,"Classe C: entre R$ 2,9 mil e R$ 7,1 mil",Sim,Entre 9 e 14 anos,Crescimento;,Não,Comprar mais barato,Qualidade;,Sim,Doou;Recebeu;,Sim,Sim
+142,Entre 25 e 34 anos,Masculino,Sao Paulo,"Classe D/E: até R$ 2,9 mil",Sim,Menos de 8 anos,Preco;Qualidade;,Não,Comprar mais barato,Preco;Qualidade;,Sim,Doou;Recebeu;,Não,Sim
+143,Entre 35 e 44 anos,Feminino,Carapicuíba,"Classe C: entre R$ 2,9 mil e R$ 7,1 mil",Sim,Entre 9 e 14 anos,Preço;,Não,Comprar mais barato,Preço;,Sim,Doou;,Sim,Sim
+144,Entre 45 e 54 anos,Feminino,Sao Paulo,"Classe C: entre R$ 2,9 mil e R$ 7,1 mil",Sim,Entre 15 e 17 anos,Qualidade;,Não,Chegue mais rápido,Qualidade;,Não,Trocou;,Sim,Sim
+145,60+,Feminino,Sao Paulo,"Classe C: entre R$ 2,9 mil e R$ 7,1 mil",Sim,Entre 35 e 44 anos,Preço;,Não,Chegue mais rápido,Preço;,Não,Doou;,Não,Não
+146,Entre 45 e 54 anos,Feminino,Sao Paulo,"Classe B: entre R$7,1 mil e R$ 22 mil",Sim,Entre 15 e 17 anos,Preco;Crescimento;,Não,Comprar mais barato,Preço;,Sim,Doou;,Sim,Sim
+147,Entre 35 e 44 anos,Feminino,Sao Paulo,"Classe C: entre R$ 2,9 mil e R$ 7,1 mil",Sim,Entre 15 e 17 anos,Qualidade;,Não,Comprar mais barato,Qualidade;,Não,Recebeu;,Não,Não
+148,Entre 45 e 54 anos,Feminino,Sao Paulo,"Classe B: entre R$7,1 mil e R$ 22 mil",Sim,Entre 15 e 17 anos,Preco;Qualidade;,Não,Comprar mais barato,Preço;,Sim,Doou;Recebeu;,Sim,Sim
+149,Entre 45 e 54 anos,Feminino,Taboao da Serra,"Classe B: entre R$7,1 mil e R$ 22 mil",Sim,Entre 25 e 34 anos,Preço;,Não,Comprar mais barato,Preço;,Sim,Trocou;,Sim,Não
+150,Entre 45 e 54 anos,Feminino,Taboao da Serra,"Classe C: entre R$ 2,9 mil e R$ 7,1 mil",Sim,Entre 18 e 24 anos,Preço;,Não,Comprar mais barato,Qualidade;,Sim,Doou;,Sim,Sim
+151,Entre 54 e 59 anos,Masculino,Sao Paulo,"Classe C: entre R$ 2,9 mil e R$ 7,1 mil",Sim,Entre 9 e 14 anos,Preço;,Não,Comprar mais barato,Preço;,Sim,Doou;,Não,Sim
+152,Entre 35 e 44 anos,Feminino,Sao Paulo,"Classe C: entre R$ 2,9 mil e R$ 7,1 mil",Sim,Entre 9 e 14 anos,Preço;,Não,Comprar mais barato,Preço;,Sim,Doou;Recebeu;,Sim,Sim
+153,Entre 35 e 44 anos,Feminino,Sao Paulo,"Classe C: entre R$ 2,9 mil e R$ 7,1 mil",Sim,Entre 9 e 14 anos,Qualidade;,Não,Comprar mais barato,Preço;,Sim,Doou;,Sim,Sim
+154,Entre 45 e 54 anos,Feminino,Sao Paulo,"Classe D/E: até R$ 2,9 mil",Sim,Entre 18 e 24 anos,Preço;,Não,Comprar mais barato,Preço;,Sim,Doou;,Sim,Sim
+155,Entre 35 e 44 anos,Feminino,Guarulhos,"Classe C: entre R$ 2,9 mil e R$ 7,1 mil",Não,Nao tem filhos,Preço;,Não,Comprar mais barato,Preço;,Sim,Doou;,Sim,Sim
+156,Entre 45 e 54 anos,Feminino,Sao Paulo,"Classe C: entre R$ 2,9 mil e R$ 7,1 mil",Sim,Entre 18 e 24 anos,Preco;Qualidade;,Não,Comprar mais barato,Preco;Qualidade;,Sim,Doou;,Não,Sim
+157,Entre 35 e 44 anos,Feminino,Embu,"Classe B: entre R$7,1 mil e R$ 22 mil",Sim,Entre 9 e 14 anos,Qualidade;,Não,Comprar mais barato,Qualidade;,Sim,Trocou;,Sim,Sim
+158,Entre 35 e 44 anos,Feminino,Cotia,"Classe B: entre R$7,1 mil e R$ 22 mil",Sim,Menos de 8 anos,Preco;Crescimento;,Não,Comprar mais barato,Preco;Crescimento;,Sim,Doou;Trocou;Recebeu;,Sim,Sim
+159,Entre 45 e 54 anos,Feminino,Sao Paulo,"Classe B: entre R$7,1 mil e R$ 22 mil",Não,Nao tem filhos,Preco;Crescimento;,Não,Comprar mais barato,Preco;Qualidade;,Sim,Doou;Trocou;Recebeu;,Sim,Sim
+160,Entre 35 e 44 anos,Masculino,Sao Paulo,"Classe C: entre R$ 2,9 mil e R$ 7,1 mil",Sim,Menos de 8 anos,Preço;,Não,Comprar mais barato,Preço;,Sim,Doou;,Sim,Sim
+161,Entre 45 e 54 anos,Feminino,Sao Paulo,"Classe B: entre R$7,1 mil e R$ 22 mil",Sim,Menos de 8 anos,Preco;Qualidade;Crescimento;,Não,Comprar mais barato,Preço;,Não,Doou;Trocou;,Não,Sim
+162,Entre 35 e 44 anos,Masculino,Sao Paulo,"Classe B: entre R$7,1 mil e R$ 22 mil",Sim,Entre 15 e 17 anos,Preço;,Não,Chegue mais rápido,Preço;,Sim,Doou;,Sim,Sim
+163,Entre 45 e 54 anos,Feminino,Sao Paulo,"Classe D/E: até R$ 2,9 mil",Sim,Entre 15 e 17 anos,Preço;,Não,Comprar mais barato,Preco;Qualidade;,Sim,Recebeu;,Não,Sim
+164,60+,Masculino,Sao Paulo,"Classe C: entre R$ 2,9 mil e R$ 7,1 mil",Sim,Entre 18 e 24 anos,Preço;,Não,Comprar mais barato,Preco;Qualidade;,Não,Doou;Recebeu;,Sim,Sim
+165,Entre 35 e 44 anos,Feminino,Sao Paulo,"Classe C: entre R$ 2,9 mil e R$ 7,1 mil",Sim,Entre 15 e 17 anos,Preco;Qualidade;,Não,Comprar mais barato,Preco;Qualidade;,Não,Doou;,Não,Sim
+166,Entre 45 e 54 anos,Feminino,Sao Paulo,"Classe B: entre R$7,1 mil e R$ 22 mil",Sim,Entre 15 e 17 anos,Preço;,Sim,Comprar mais barato,Qualidade;,Sim,Doou;,Sim,Sim
+167,Entre 35 e 44 anos,Feminino,Sao Paulo,"Classe B: entre R$7,1 mil e R$ 22 mil",Sim,Entre 15 e 17 anos,Preço;,Sim,Comprar mais barato,Preço;,Sim,Doou;,Sim,Sim
+168,Menos de 18 anos,Masculino,Atibaia ,"Classe D/E: até R$ 2,9 mil",Não,Nao tem filhos,Qualidade;,Não,Comprar mais barato,Preço;,Sim,Doou;,Sim,Não
+169,Menos de 18 anos,Feminino,Sao Paulo,"Classe D/E: até R$ 2,9 mil",Não,Nao tem filhos,Qualidade;,Não,Comprar mais barato,Qualidade;,Sim,Doou;Recebeu;,Não,Não
+170,Entre 18 e 24 anos,Feminino,Sao Paulo,"Classe D/E: até R$ 2,9 mil",Não,Nao tem filhos,Preco;Qualidade;Crescimento;,Não,Comprar mais barato,Preco;Qualidade;,Sim,Doou;Trocou;Recebeu;,Sim,Sim
+171,Entre 35 e 44 anos,Feminino,Sao Paulo,"Classe C: entre R$ 2,9 mil e R$ 7,1 mil",Não,Nao tem filhos,Preço;,Não,Comprar mais barato,Preço;,Sim,Doou;,Não,Não
+172,Entre 54 e 59 anos,Feminino,Sao Paulo,"Classe C: entre R$ 2,9 mil e R$ 7,1 mil",Sim,Entre 25 e 34 anos,Preço;,Não,Comprar mais barato,Preço;,Sim,Doou;,Sim,Sim
+173,Menos de 18 anos,Feminino,Sao Paulo,"Classe D/E: até R$ 2,9 mil",Não,Nao tem filhos,Preco;Crescimento;,Não,Comprar mais barato,Preco;Qualidade;,Sim,Doou;Trocou;Recebeu;,Sim,Não
+174,Entre 18 e 24 anos,Feminino,Campinas,"Classe D/E: até R$ 2,9 mil",Não,Nao tem filhos,Preco;Crescimento;,Não,Comprar mais barato,Preco;Qualidade;,Sim,Doou;,Sim,Sim
+175,Entre 45 e 54 anos,Feminino,Taboao da Serra,"Classe C: entre R$ 2,9 mil e R$ 7,1 mil",Sim,Entre 18 e 24 anos,Preço;,Sim,Chegue mais rápido,Preço;,Sim,Doou;,Sim,Não
+176,Entre 45 e 54 anos,Feminino,Osasco,"Classe C: entre R$ 2,9 mil e R$ 7,1 mil",Sim,Entre 9 e 14 anos,Preço;,Não,Comprar mais barato,Preço;,Sim,Trocou;,Sim,Sim
+177,Entre 18 e 24 anos,Masculino,Sao Paulo,"Classe D/E: até R$ 2,9 mil",Não,Nao tem filhos,Preco;Crescimento;,Não,Comprar mais barato,Qualidade;Crescimento;,Sim,Doou;Trocou;Recebeu;,Sim,Sim
+178,60+,Feminino,Sao Paulo,"Classe B: entre R$7,1 mil e R$ 22 mil",Sim,Entre 45 e 59 anos,Preco;Crescimento;,Sim,Comprar mais barato,Preço;,Sim,Doou;,Sim,Não
+179,Entre 35 e 44 anos,Masculino,Sao Paulo,"Classe B: entre R$7,1 mil e R$ 22 mil",Sim,Entre 9 e 14 anos,Preco;Qualidade;,Não,Chegue mais rápido,Preco;Qualidade;,Sim,Doou;Trocou;Recebeu;,Sim,Sim
+180,60+,Feminino,Sao Paulo,"Classe C: entre R$ 2,9 mil e R$ 7,1 mil",Sim,Entre 35 e 44 anos,Crescimento;,Não,Comprar mais barato,Crescimento;,Não,Doou;,Sim,Sim
+181,Entre 45 e 54 anos,Feminino,Carapicuíba,"Classe C: entre R$ 2,9 mil e R$ 7,1 mil",Sim,Entre 18 e 24 anos,Crescimento;,Não,Comprar mais barato,Qualidade;,Sim,Trocou;,Sim,Sim
+182,Entre 35 e 44 anos,Feminino,Sao Paulo,"Classe B: entre R$7,1 mil e R$ 22 mil",Sim,Entre 9 e 14 anos,Crescimento;,Não,Chegue mais rápido,Qualidade;,Sim,Doou;Recebeu;,Sim,Não
+183,Entre 25 e 34 anos,Feminino,Indaiatuba ,"Classe D/E: até R$ 2,9 mil",Sim,Menos de 8 anos,Preço;,Não,Comprar mais barato,Preço;,Sim,Trocou;,Sim,Sim
+184,Entre 45 e 54 anos,Feminino,Sao Paulo,"Classe B: entre R$7,1 mil e R$ 22 mil",Sim,Entre 25 e 34 anos,Crescimento;,Não,Comprar mais barato,Qualidade;,Não,Trocou;,Sim,Sim
+185,Entre 45 e 54 anos,Feminino,Sao Paulo,"Classe C: entre R$ 2,9 mil e R$ 7,1 mil",Sim,Entre 9 e 14 anos,Preço;,Não,Chegue mais rápido,Qualidade;,Não,Doou;,Não,Sim
+186,Entre 35 e 44 anos,Feminino,Mogi das Cruzes,"Classe B: entre R$7,1 mil e R$ 22 mil",Sim,Menos de 8 anos,Preço;,Sim,Comprar mais barato,Preço;,Sim,Trocou;,Sim,Sim
+187,Entre 35 e 44 anos,Feminino,Ribeirão Pires ,"Classe B: entre R$7,1 mil e R$ 22 mil",Não,Nao tem filhos,Preço;,Não,Comprar mais barato,Preço;,Não,Doou;,Sim,Não
+188,Entre 45 e 54 anos,Feminino,Guarulhos,"Classe D/E: até R$ 2,9 mil",Sim,Entre 15 e 17 anos,Preço;,Não,Comprar mais barato,Preco;Qualidade;,Sim,Doou;Trocou;Recebeu;,Sim,Sim
+189,Entre 35 e 44 anos,Feminino,Cotia,"Classe C: entre R$ 2,9 mil e R$ 7,1 mil",Sim,Menos de 8 anos,Preço;,Não,Comprar mais barato,Preço;,Não,Doou;,Sim,Sim
+190,Entre 18 e 24 anos,Feminino,Campinas,"Classe B: entre R$7,1 mil e R$ 22 mil",Não,Nao tem filhos,Preco;Qualidade;,Sim,Comprar mais barato,Preco;Qualidade;,Sim,Doou;,Sim,Não
+191,Entre 35 e 44 anos,Feminino,Sao Paulo,"Classe B: entre R$7,1 mil e R$ 22 mil",Sim,Menos de 8 anos,Preço;,Não,Comprar mais barato,Preço;,Sim,Doou;,Sim,Sim
+192,Entre 54 e 59 anos,Feminino,Guarulhos,"Classe D/E: até R$ 2,9 mil",Não,Nao tem filhos,Preço;,Sim,Comprar mais barato,Preço;,Não,Trocou;,Sim,Não
+193,Entre 18 e 24 anos,Feminino,Campinas,"Classe D/E: até R$ 2,9 mil",Não,Nao tem filhos,Crescimento;,Sim,Chegue mais rápido,Preço;,Sim,Doou;,Sim,Sim
+194,Entre 18 e 24 anos,Feminino,Guarulhos,"Classe B: entre R$7,1 mil e R$ 22 mil",Não,Nao tem filhos,Preco;Qualidade;Crescimento;,Não,Comprar mais barato,Preco;Qualidade;,Sim,Doou;Trocou;Recebeu;,Sim,Sim
+195,Entre 18 e 24 anos,Feminino,Sao Paulo,"Classe D/E: até R$ 2,9 mil",Não,Nao tem filhos,Preço;,Não,Comprar mais barato,Preço;,Sim,Doou;Trocou;Recebeu;,Não,Sim
+196,60+,Feminino,Osasco,"Classe C: entre R$ 2,9 mil e R$ 7,1 mil",Sim,Entre 15 e 17 anos,Preço;,Não,Chegue mais rápido,Preço;,Sim,Trocou;,Não,Não
+197,Entre 54 e 59 anos,Feminino,Taboao da Serra,"Classe C: entre R$ 2,9 mil e R$ 7,1 mil",Sim,Entre 18 e 24 anos,Crescimento;,Sim,Comprar mais barato,Qualidade;,Sim,Doou;,Sim,Sim
+198,Entre 18 e 24 anos,Prefiro não me identificar,Campinas,"Classe D/E: até R$ 2,9 mil",Não,Nao tem filhos,Preco;Qualidade;Crescimento;,Não,Comprar mais barato,Preco;Qualidade;,Sim,Doou;Trocou;Recebeu;,Sim,Não
+199,Entre 18 e 24 anos,Feminino,Campinas,"Classe D/E: até R$ 2,9 mil",Não,Nao tem filhos,Preço;,Sim,Comprar mais barato,Preco;Qualidade;,Sim,Doou;Trocou;Recebeu;,Sim,Sim
+200,Entre 45 e 54 anos,Feminino,Sao Paulo,"Classe B: entre R$7,1 mil e R$ 22 mil",Sim,Entre 9 e 14 anos,Preço;,Não,Comprar mais barato,Preco;Qualidade;,Sim,Doou;Trocou;Recebeu;,Sim,Sim
+201,Entre 35 e 44 anos,Feminino,Guarulhos,"Classe C: entre R$ 2,9 mil e R$ 7,1 mil",Sim,Entre 18 e 24 anos,Preço;,Não,Comprar mais barato,Preço;,Sim,Doou;Recebeu;,Sim,Não
+202,Menos de 18 anos,Feminino,Sao Paulo,"Classe B: entre R$7,1 mil e R$ 22 mil",Não,Nao tem filhos,Crescimento;,Não,Comprar mais barato,Qualidade;Crescimento;,Não,Doou;,Sim,Sim
+203,Entre 25 e 34 anos,Masculino,Guaruja,Classe A: superior a R$ 22 mil,Sim,Menos de 8 anos;,Preco;Qualidade;,Não,Comprar mais barato,Preco;Qualidade;,Não,Doou;,Sim,Sim
+204,Entre 25 e 34 anos,Feminino,Guaruja,Classe A: superior a R$ 22 mil,Sim,Menos de 8 anos;,Qualidade;,Não,Chegue mais rápido,Qualidade;,Não,Doou;,Sim,Não
+205,Entre 25 e 34 anos,Feminino,Sao Paulo,"Classe B: entre R$7,1 mil e R$ 22 mil",Não,Nao tem filhos,Preco;Qualidade;,Não,Comprar mais barato,Preço;,Sim,Doou;Recebeu;,Não,Não
+206,Entre 35 e 44 anos,Feminino,Guarulhos,"Classe D/E: até R$ 2,9 mil",Sim,Entre 15 e 17 anos;Entre 9 e 14 anos;,Preco;Crescimento;,Não,Comprar mais barato,Preco;Qualidade;,Sim,Doou;,Sim,Sim
+207,Menos de 18 anos,Masculino,Sao Paulo,"Classe D/E: até R$ 2,9 mil",Não,Nao tem filhos,Preco;Qualidade;Crescimento;,Não,Comprar mais barato,Preço;,Sim,Doou;Trocou;Recebeu;,Sim,Sim
+208,Entre 35 e 44 anos,Feminino,Sao Paulo,"Classe B: entre R$7,1 mil e R$ 22 mil",Não,Nao tem filhos,Preco;Qualidade;Crescimento;,Não,Comprar mais barato,Preco;Qualidade;Crescimento;,Não,Doou;Trocou;Recebeu;,Sim,Não
+209,60+,Masculino,Sao Paulo,"Classe B: entre R$7,1 mil e R$ 22 mil",Sim,Entre 35 e 44 anos;,Preco;Crescimento;,Não,Chegue mais rápido,Preco;Qualidade;,Sim,Doou;Trocou;Recebeu;,Sim,Sim
+210,Entre 25 e 34 anos,Feminino,Sao Paulo,"Classe C: entre R$ 2,9 mil e R$ 7,1 mil",Sim,Entre 9 e 14 anos;,Qualidade;,Não,Chegue mais rápido,Qualidade;,Sim,Doou;Trocou;Recebeu;,Sim,Não
+211,Entre 25 e 34 anos,Feminino,Sao Paulo,"Classe B: entre R$7,1 mil e R$ 22 mil",Não,Nao tem filhos,Preco;Qualidade;,Não,Comprar mais barato,Preco;Qualidade;,Sim,Doou;Recebeu;,Sim,Sim
+212,60+,Masculino,Sao Paulo,Classe A: superior a R$ 22 mil,Sim,Entre 25 e 34 anos;,Qualidade;,Não,Comprar mais barato,Qualidade;,Sim,Doou;,Sim,Sim
+213,60+,Feminino,Sao Paulo,"Classe B: entre R$7,1 mil e R$ 22 mil",Sim,Entre 35 e 44 anos;,Preço;,Não,Comprar mais barato,Qualidade;,Não,Recebeu;,Não,Sim
+214,Entre 18 e 24 anos,Feminino,Sao Paulo,"Classe C: entre R$ 2,9 mil e R$ 7,1 mil",Não,Nao tem filhos,Preco;Qualidade;,Não,Chegue mais rápido,Preco;Qualidade;,Sim,Doou;,Sim,Sim
+215,Entre 45 e 54 anos,Masculino,São Bernardo do Campo,"Classe B: entre R$7,1 mil e R$ 22 mil",Sim,Menos de 8 anos;Entre 9 e 14 anos;,Preco;Qualidade;Crescimento;,Não,Comprar mais barato,Preco;Qualidade;,Não,Doou;,Sim,Sim
+216,Entre 35 e 44 anos,Feminino,Sao Paulo,"Classe B: entre R$7,1 mil e R$ 22 mil",Sim,Menos de 8 anos;,Preço;,Não,Chegue mais rápido,Preço;,Sim,Doou;Trocou;Recebeu;,Sim,Sim
+218,Entre 25 e 34 anos,Masculino,Sao Paulo,"Classe C: entre R$ 2,9 mil e R$ 7,1 mil",Não,Nao tem filhos,Crescimento;,Não,Comprar mais barato,Preco;Qualidade;,Sim,Doou;Recebeu;,Sim,Sim
+219,Menos de 18 anos,Feminino,Sao Paulo,"Classe D/E: até R$ 2,9 mil",Não,Nao tem filhos,Preco;Qualidade;Crescimento;,Sim,Comprar mais barato,Preco;Qualidade;,Sim,Doou;Trocou;Recebeu;,Sim,Não
+220,Entre 54 e 59 anos,Masculino,Sao Paulo,Classe A: superior a R$ 22 mil,Sim,Entre 25 e 34 anos;Entre 35 e 44 anos;,Preço;,Não,Comprar mais barato,Qualidade;,Não,Doou;,Sim,Não
+221,Entre 45 e 54 anos,Masculino,São Bernardo do Campo,Classe A: superior a R$ 22 mil,Sim,Entre 9 e 14 anos;,Preco;Qualidade;Crescimento;,Não,Comprar mais barato,Preco;Qualidade;,Não,Doou;Trocou;,Não,Sim
+222,Entre 54 e 59 anos,Feminino,Sao Paulo,"Classe B: entre R$7,1 mil e R$ 22 mil",Sim,Entre 25 e 34 anos;,Preço;,Não,Comprar mais barato,Preço;,Sim,Doou;,Não,Não
+223,Entre 25 e 34 anos,Feminino,Rio de Janeiro,"Classe B: entre R$7,1 mil e R$ 22 mil",Não,Nao tem filhos,Crescimento;,Não,Comprar mais barato,Preco;Qualidade;,Sim,Doou;Recebeu;,Sim,Não
+224,Entre 18 e 24 anos,Masculino,Serra - ES,"Classe D/E: até R$ 2,9 mil",Não,Nao tem filhos,Preço;,Não,Comprar mais barato,Qualidade;,Sim,Doou;,Sim,Sim
+225,Entre 18 e 24 anos,Feminino,Sao Paulo,"Classe C: entre R$ 2,9 mil e R$ 7,1 mil",Não,Nao tem filhos,Preco;Qualidade;,Não,Comprar mais barato,Preco;Qualidade;,Sim,Doou;Recebeu;,Sim,Sim
+226,Menos de 18 anos,Masculino,Caieiras,"Classe C: entre R$ 2,9 mil e R$ 7,1 mil",Não,Nao tem filhos,Crescimento;,Não,Comprar mais barato,Preco;Qualidade;,Sim,Doou;Trocou;Recebeu;,Sim,Sim
+227,Entre 35 e 44 anos,Masculino,Sao Paulo,"Classe B: entre R$7,1 mil e R$ 22 mil",Sim,Menos de 8 anos;,Preco;Qualidade;Crescimento;,Não,Comprar mais barato,Preco;Crescimento;,Não,Doou;Trocou;Recebeu;,Sim,Sim
+228,Entre 35 e 44 anos,Masculino,Salvador,"Classe B: entre R$7,1 mil e R$ 22 mil",Sim,Menos de 8 anos;,Qualidade;Crescimento;,Não,Comprar mais barato,Preco;Qualidade;,Sim,Doou;Recebeu;,Sim,Sim
+229,Entre 35 e 44 anos,Feminino,Sao Paulo,"Classe B: entre R$7,1 mil e R$ 22 mil",Sim,Menos de 8 anos;,Preço;,Não,Comprar mais barato,Preço;,Sim,Doou;,Sim,Sim
+230,60+,Masculino,Sao Paulo,"Classe B: entre R$7,1 mil e R$ 22 mil",Sim,Entre 25 e 34 anos;,Preço;,Não,Comprar mais barato,Preço;,Sim,Doou;,Sim,Sim
+231,Menos de 18 anos,Prefiro não me identificar,Osasco,"Classe C: entre R$ 2,9 mil e R$ 7,1 mil",Não,Nao tem filhos,Preco;Qualidade;Crescimento;,Não,Comprar mais barato,Preco;Qualidade;Crescimento;,Sim,Doou;Trocou;Recebeu;,Não,Sim
